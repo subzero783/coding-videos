@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+.htaccess
+access_log
+error_log
+*.png
+*.pdf
+*.jpeg
+*.jpg
+*.mp4
+*.wmv
+*.ogg
+*.wmb
+*.wmbm
